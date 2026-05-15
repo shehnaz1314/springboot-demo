@@ -29,10 +29,10 @@ public String saveUser(@ModelAttribute("course") Course course, Model model) {
 	return "result";
 }
 
-public String deleteStudent(@ModelAttribute("display") Course course, Model model) {
+/*public String deleteStudent(@ModelAttribute("display") Course course, Model model) {
 	courseRepo.
 	return "displayStudents";
-}
+}*/
 
 
 /*public String welcome() {
