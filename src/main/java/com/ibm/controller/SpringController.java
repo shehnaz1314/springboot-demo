@@ -33,8 +33,6 @@ public String saveUser(@ModelAttribute("course") Course course, Model model) {
 	courseRepo.
 	return "displayStudents";
 }*/
-
-
 /*public String welcome() {
 	//using html
 	//return "view";
